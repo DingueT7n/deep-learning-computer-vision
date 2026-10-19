@@ -1,0 +1,9 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+tensorflow
+opencv-python

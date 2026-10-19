@@ -1,0 +1,3 @@
+1)CNN models tend to perform better on image classification tasks, especially when the data is spatially correlated (as in images).
+and it has a better accuracy 
+2)FCNN models can be simpler and faster to train, although they may be less accurate in some cases.
